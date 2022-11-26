@@ -23,7 +23,7 @@
 
   - Top 20 in CodeJam Annual Coding Event of MNNIT Allahabad
   
-  - Knigh On LeetCode
+  - Knight On LeetCode
 
   - 3* at Codechef
   
