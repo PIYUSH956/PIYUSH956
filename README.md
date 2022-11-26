@@ -1,4 +1,34 @@
-### Hi there 👋
+   ###                                             Hi 👋 I'm Piyush Jaiswal
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+   ###                                A passionate  Programmer and Web Developer from India
+   
+  
+  
+ ** 
+  - MCA Student at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
+
+  - I’m currently working on a MERN Project and ML
+
+  - I’m currently learning Machine Learning
+
+  - How to reach me piyushjaiswal380@gmail.com
+
+  -  Programming Languages CPP
+
+  - 4th Position in Webster(Avishkar), a MNNIT Allahabad Hackathon
+
+  - 4th Position in Devjam, Annual Hackathon of MNNIT Allahabad
+
+  - Top 20 in CodeJam Annual Coding Event of MNNIT Allahabad
+  
+  - Knigh On LeetCode
+
+  - 3* at Codechef
+  
+  
+**
 
 <!--
 **PIYUSH956/PIYUSH956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
