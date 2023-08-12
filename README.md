@@ -17,7 +17,7 @@
 
   -  Programming Languages CPP
 
-  -  3rd Position out of 3800 Contest in Indus Valley Hackathon Coderush 3.0
+  -  3rd Position out of 3800 Teams in a Contest organized by Indus Valley Partners Coderush 3.0
 
   - In Top 4 Code to Give Hackathon Organize by Morgan Stanley
 
