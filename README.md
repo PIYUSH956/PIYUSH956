@@ -1,50 +1,43 @@
-   ###                                             Hi 👋 I'm Piyush Jaiswal
+# Hi, I'm Piyush Jaiswal 👋
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+**Software Development Engineer @ Amazon** | Full-stack | MNNIT Allahabad (MCA '24)
 
-   ###                                A passionate  Programmer and Web Developer from India
-   
-  
-  
- ** 
-  - MCA Student at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
+I build full-stack products with **React/TypeScript** and **Java (Spring)** or **Python (Flask)** on the backend. I like automation, observability, and turning slow manual processes into one-click workflows.
 
-  - I’m currently working on a MERN Project and ML
+## 🔭 What I'm up to
+- 🛒 At **Amazon** (Deals Promotions team), I design full-stack features, write Cypress E2E/integration tests, and set up CloudWatch monitoring and alarms. I also work on cross-marketplace deal replication.
+- 🚀 Building **[MCAPREP](https://mcaprep.in)**, an online test series platform for MCA entrance aspirants (React, Redux, Node.js, Express, PM2, CI/CD).
+- 🧠 Always sharpening DSA and system design.
 
-  - I’m currently learning Machine Learning
+## 💼 Previously at Texas Instruments
+- Built a Box data reassignment platform that cut a **2-day manual task to under 1 minute** and eliminated **300+ support tickets/month**.
+- Built a WebEx license management portal (React, Flask, Nginx) that cut provisioning time by **60%** company-wide.
+- Added audit logging in MySQL, saving about **30 hrs/month** of manual tracking.
 
-  - How to reach me piyushjaiswal380@gmail.com
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-  -  Programming Languages CPP
+## 🏆 Highlights
+- 🥇 LeetCode **Knight** (max rating 2000), ranked **78 / 8000+** in Weekly Contest 356
+- 🥉 3rd of 3800 teams at CodeRush 3.0 (Indus Valley Partners)
+- 🥈 2nd place, Morgan Stanley Code to Give Hackathon 2023
+- 🎯 AIR 251 in NIMCET 2021
 
-  -  3rd Position out of 3800 Teams in a Contest organized by Indus Valley Partners Coderush 3.0
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-jaiswal380)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjaiswal0701@gmail.com)
 
-  - In Top 4 Code to Give Hackathon Organize by Morgan Stanley
-
-  - 4th Position in Webster(Avishkar), a MNNIT Allahabad Hackathon
-
-  - 4th Position in Devjam, Annual Hackathon of MNNIT Allahabad
-
-  - Top 20 in CodeJam Annual Coding Event of MNNIT Allahabad
-  
-  - Knight On LeetCode
-
-  - 3* at Codechef
-  
-  
-**
-
-<!--
-**PIYUSH956/PIYUSH956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush956&show_icons=true&theme=tokyonight)
